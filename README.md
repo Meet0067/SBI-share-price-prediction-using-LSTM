@@ -1,10 +1,10 @@
 #Stock Price Prediction of State Bank Of India  Using  LSTM Recurrent Neural Network
 
 
-#Dataset:<br />
+#Dataset:  
 The dataset is taken from yahoo finace's website in CSV format. The dataset consists of Open, High, Low and Closing Prices of sbi stocks from 3rd january 2012 to 15th June 2020 - total 2074 rows.
 
-#Price Indicator:<br />
+#Price Indicator:  
 Stock traders mainly use three indicators for prediction: OHLC average (average of Open, High, Low and Closing Prices), HLC average (average of High, Low and Closing Prices) and Closing price, In this project, Closing price  has been used.
 
 #Data Pre-processing:<br />
