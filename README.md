@@ -25,7 +25,7 @@ Test accuracy metric is root mean square error (RMSE).
 
 Results:
 
-![Image of Prediction](https://github.com/Meet0067/SBI-share-price-prediction-using-LSTM/sbi.png)
+![Image of Prediction](https://github.com/Meet0067/SBI-share-price-prediction-using-LSTM/blob/master/sbi.PNG)
 
 
 Finally, this work can greatly help the quantitative traders to take decisions.
